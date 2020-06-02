@@ -1,0 +1,6 @@
+framework module Pods_queueApp_queueAppUITests {
+  umbrella header "Pods-queueApp-queueAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
